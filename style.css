@@ -1,0 +1,16 @@
+body{
+background-color:lightpink;
+    background-size: cover;
+    background-size: cover;
+    
+}
+
+h1{
+    color:blueviolet;
+    font-family: cursive;
+}
+
+canvas{
+    border-color: crimson;
+    border-style: double;
+}
